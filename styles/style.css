@@ -9,7 +9,6 @@ button, summary {
 	cursor: pointer;
 }
 
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -110,7 +109,7 @@ main section:nth-of-type(1) section:nth-of-type(2) button{
 	border: 0;
 	font-family: 'Dunkin Sans',sans-serif;
 	color: var(--color-textw);
-	padding: 1em;
+	padding: 1em 2em;
 	border-radius: 1em;
 }
 
@@ -183,4 +182,25 @@ main section:nth-of-type(5) a{
 	color: var(--color-textw);
 	padding: .75em 6em;
 	border-radius: 1.5em;
+}
+
+/* section 6 - dd nieuws */
+
+
+
+
+/* section 7 - store finder */
+main section:nth-of-type(7){
+	background-color: var(--dunkin-pink);
+	border-radius: 2em;
+	color: var(--color-textw);
+}
+
+main section:nth-of-type(7) a{
+	background-color: var(--color-background);
+	text-decoration: none;
+	padding: .8em 3em;
+	border-radius: 1.5em;
+	color: var(--dunkin-pink);
+	font-size: .8em;
 }
