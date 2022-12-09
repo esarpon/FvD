@@ -113,7 +113,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  
+  In de eerste week was ik nogal ziek, dus heb ik alleen de breakdownschetsen gemaakt en een begin gemaakt aan het opzetten van de HTML.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -147,23 +148,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Het stijlen van de HTML elementen ging opzich wel goed, ik had alleen een beetje moeite met display: flex, en ook met het veranderen van de margins voor '<a>' elementen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Display: flex  | ---                | ---          | ---              |
+  | Veranderen van |
+  margins voor '<a>| en dit             | en ik dit    | en dan ik dat    |
+  | ....           | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Ik had teveel h1 in de pagina, er mag er maar 1 per pagina.
+  - a link (button) geen margin toevoegen, waarom? (Yara gaat ernaar kijken)
+  -
 - ...
 
 </details>
@@ -216,7 +219,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  
+  Het is mij gelukt om de stijling van de eerste pagina zo goed als af te hebben. Moeite met header, titel en menu willen niet uit elkaar. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -274,8 +278,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Hamburger menu - bron: Sanne 't Hoofd
+  2. Display: inline-block op '<a>' - Bron: Yara Prins
+  3. 
 
 </details>
